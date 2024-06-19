@@ -1,0 +1,1 @@
+import{l as n,c as t,e as o,a5 as a}from"./CBn7--Y5.js";const c={};function r(e,s){return t(),o("p",null,[a(e.$slots,"default",{},void 0,!0)])}const d=n(c,[["render",r],["__scopeId","data-v-a403775d"]]);export{d as default};
